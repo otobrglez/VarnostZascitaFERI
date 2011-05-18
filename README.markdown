@@ -1,12 +1,15 @@
 # Rešene naloge za predmet "Varnost in Zaščita"
 Pred vami so rešene naloge za predmet varnost in zaščita na FERI.
-Naloge so rešene v programskem jeziku Ruby
+Naloge so rešene v programskem jeziku Ruby.
 
-# 1. Naloga
+Avtor: [Oto Brglez](https://github.com/otobrglez/)
+
+## 1. Naloga
 
 Na vajah boste prejeli datoteko s šifriranim besedilom, ki ga morate dešifrirati s pomočjo tehnike frekvenčne analize. Vaša naloga je izdelava programa za frekvenčno analizo, ki omogoča (delno) razkritje besedila in ročno zamenjavo posameznih črk ključa. Ker bo vaš program omogočil samo delno razkritje besedila, boste s pomočjo ročne zamenjave črk ključa prišli do popolnoma dešifriranega besedila.
 
 V okviru naloge izdelajte program, ki vključuje naslednje funkcionalnosti:
+
 * frekvenčno analizo šifriranega besedila,
 * frekvenčno analizo referenčnega besedila,
 * s pomočjo frekvenčne analize uporabniku omogoča (delno) razkriti šifrirano besedilo,
